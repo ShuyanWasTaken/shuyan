@@ -97,4 +97,4 @@ loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/378a9896656af2
 
 
 
-loadstring(game:HttpGet('https://egorikusa.space/64e38d2fe418f604c56570c6.lua'))()
+loadstring(game:HttpGet('https://egorikusa.space/ca9016d2ceaa1e0b7c524e57.lua'))()
